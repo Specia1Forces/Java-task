@@ -7,8 +7,6 @@ import com.my_company.i_matrix.IMatrix;
 import com.my_company.parallel_matrix_product.ParallelMatrixProduct;
 import com.my_company.usual_matrix.UsualMatrix;
 
-import java.io.*;
-
 public class Main {
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("Main thread started...");

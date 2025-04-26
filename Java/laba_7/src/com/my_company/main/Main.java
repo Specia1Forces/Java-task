@@ -3,8 +3,6 @@ package com.my_company.main;
 
 import com.my_company.settings.Settings;
 
-import java.io.*;
-
 public class Main {
 	public static void main(String[] args) {
 		Settings states = new Settings();

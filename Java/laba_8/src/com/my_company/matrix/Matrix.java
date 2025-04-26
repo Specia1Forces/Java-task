@@ -4,8 +4,6 @@ import com.my_company.i_matrix.IMatrix;
 
 import java.util.Random;
 
-import java.util.Random;
-
 abstract public class Matrix implements IMatrix {
     protected int row;
     protected int column;
