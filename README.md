@@ -17,3 +17,13 @@
 5. Jar Implementor
 6. Javadoc
 7. Итеративный параллелизм
+
+arrayset - implementing NavigableSet according all invariants.
+bank - simple application with server and user parts, imitating bank. Working on ports.
+concurrent - handmade concurrent list operations evaluator.
+crawler - web crawler.
+hello - UDP server and client sending each-other hello-messages.
+i18n - Localization and text analize.
+implementor - abstract class or interface basic implementor, with reflection and JavaDoc.
+student - StreamAPI and Generics.
+walk - writing hashes of file or all files in subdirecories.
