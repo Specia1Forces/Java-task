@@ -18,7 +18,7 @@
 8. Web Crawler - в процессе
 9. HelloUDP - в процессе
 10. Банк - в процессе
-
+<!---
 [comment]: <> arrayset - implementing SortedSet according all invariants.
 [comment]: <> bank - simple application with server and user parts, imitating bank. Working on ports.
 [comment]: <> concurrent - handmade concurrent list operations evaluator.
@@ -28,3 +28,4 @@
 [comment]: <> implementor - abstract class or interface basic implementor, with reflection and JavaDoc.
 [comment]: <> student - StreamAPI and Generics.
 [comment]: <> walk - writing hashes of file or all files in subdirecories.
+-->
